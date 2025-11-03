@@ -1,13 +1,28 @@
 # 👋 Hola, soy Samuel Hernández
 
-## 📊 Data Analyst | BI Specialist
+## 📊 Data Analyst | BI Specialist | Aspiring ML Engineer
 
 Analista de datos con formación en finanzas (Arkansas State University) y 
-certificación como Citizen Data Scientist (Tec de Monterrey). Actualmente 
-especialista de tarifas en American Airlines, enfocado en análisis de 
-ingresos, optimización de rutas y desarrollo de dashboards ejecutivos.
+actualmente cursando certificación como **Citizen Data Scientist** en Tec de 
+Monterrey. Especialista de tarifas en American Airlines, enfocado en análisis 
+de ingresos, optimización de rutas y desarrollo de dashboards ejecutivos.
 
-### 🎯 Especializado en:
+### 🎯 mis metas
+
+Actualmente busco generar experiencia sólida en análisis de datos como fundación para 
+en un futuro encaminarme hacia **Machine Learning** y **Large Language Models (LLMs)**. 
+Mi objetivo es combinar mi experiencia en análisis de negocio con técnicas 
+avanzadas de ML para resolver problemas complejos con impacto medible.
+
+### 💡 Actualmente aprendiendo:
+- Fundamentos de Machine Learning (scikit-learn)
+- Feature engineering y modelado predictivo
+- NLP y procesamiento de lenguaje natural
+- Preparación para roles de ML Engineer / Data Scientist
+
+---
+
+### 🛠️ Especializado en:
 
 **Análisis de Datos:**
 - Análisis exploratorio (EDA) y limpieza de datos
@@ -38,6 +53,22 @@ ingresos, optimización de rutas y desarrollo de dashboards ejecutivos.
 - Análisis multivariado
 - A/B testing y pruebas de hipótesis
 - Forecasting y proyecciones
+
+---
+
+### 🎓 Educación
+
+**Citizen Data Scientist** | Tec de Monterrey (2025 - En curso)
+- Machine Learning fundamentals
+- Análisis predictivo y modelado
+- Python para ciencia de datos
+
+**Licenciatura en Finanzas** | Arkansas State University (2020 - 2024)
+- Estadística aplicada
+- Análisis cuantitativo
+- Modelado financiero
+
+---
 
 ### 🌎 Ubicación
 Ciudad de México, México

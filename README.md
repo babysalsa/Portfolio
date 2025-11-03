@@ -5,7 +5,7 @@
 Analista de datos con formación en finanzas (Arkansas State University) y 
 actualmente cursando certificación como **Citizen Data Scientist** en Tec de 
 Monterrey. Especialista de tarifas en American Airlines, enfocado en análisis 
-de ingresos, optimización de rutas y desarrollo de dashboards ejecutivos.
+de ingresos, optimización de rutas.
 
 ### 🎯 mis metas
 

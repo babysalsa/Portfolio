@@ -4,27 +4,40 @@
 
 Analista de datos con formación en finanzas (Arkansas State University) y 
 certificación como Citizen Data Scientist (Tec de Monterrey). Actualmente 
-especialista de tarifas en American Airlines, donde genero reportes semanales 
-de ingresos, ocupación y rendimiento de rutas.
+especialista de tarifas en American Airlines, enfocado en análisis de 
+ingresos, optimización de rutas y desarrollo de dashboards ejecutivos.
 
 ### 🎯 Especializado en:
-- **Python:** pandas, matplotlib, seaborn, numpy
-- **SQL:** JOINs, CTEs, Window Functions, análisis complejo
-- **Visualización:** Tableau, Power BI, dashboards ejecutivos
-- **Análisis:** Forecasting, regresiones, análisis multivariado
 
-### 📂 Proyectos Destacados:
+**Análisis de Datos:**
+- Análisis exploratorio (EDA) y limpieza de datos
+- Segmentación de clientes y perfiles de riesgo
+- Análisis de correlaciones y patrones
+- Identificación de insights accionables
 
-**1. Análisis de Ventas Mensuales (Retail)**
-- Identificación de estacionalidad: +32% en diciembre vs promedio
-- Insight: Optimización de marketing en Q4 = +15-20% revenue anual
-- Tech: Python, pandas, matplotlib
+**Python & Analytics:**
+- **pandas:** manipulación de datos, groupby, pivot tables, merge/join
+- **matplotlib & seaborn:** visualizaciones profesionales, heatmaps, distribuciones
+- **numpy:** cálculos estadísticos, agregaciones
+- Análisis de series temporales y estacionalidad
 
-**2. HR Analytics: Reducción de Rotación de Personal**
-- Análisis de 1,470 empleados para identificar factores de attrition
-- Perfil de alto riesgo: Sales + salario bajo + OverTime = 46.7% rotación
-- Recomendaciones con ROI 98%: ahorro proyectado $1.1M anual
-- Tech: Python, pandas, seaborn, análisis multivariado
+**SQL & Bases de Datos:**
+- Queries complejas con JOINs múltiples
+- Common Table Expressions (CTEs)
+- Window Functions (ROW_NUMBER, RANK, LAG/LEAD)
+- Optimización de consultas y performance
+
+**Visualización & BI:**
+- **Tableau:** dashboards interactivos, storytelling con datos
+- **Power BI:** reportes ejecutivos, Power Query, DAX
+- **Excel avanzado:** Power Query, tablas dinámicas, forecasting
+- Diseño de KPIs y métricas de negocio
+
+**Estadística & Modelado:**
+- Regresiones lineales y logísticas (R, Stata)
+- Análisis multivariado
+- A/B testing y pruebas de hipótesis
+- Forecasting y proyecciones
 
 ### 🌎 Ubicación
 Ciudad de México, México
@@ -32,7 +45,7 @@ Ciudad de México, México
 ### 📫 Contacto
 📧 Samuel.Hernandez.Est@gmail.com  
 📱 (442) 753-9090  
-🔗 [LinkedIn](https://shorturl.at/DLsda)
+🔗 [LinkedIn](tu-link-linkedin)
 
 ### 🌐 Idiomas
 🇪🇸 Español (Nativo) | 🇺🇸 Inglés (Fluido profesional)

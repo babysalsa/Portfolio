@@ -181,9 +181,5 @@ Desarrollar un sistema de scoring de riesgo para identificar transacciones fraud
 - Fraudes detectados: 250 (50.81%)
 - Revisiones manuales: 337 transacciones
 
----
 
-## Tecnologías Utilizadas
-```python
->>>>>>> 614bc8f (initial commit)
 

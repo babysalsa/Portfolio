@@ -76,7 +76,7 @@ Ciudad de México, México
 ### 📫 Contacto
 📧 Samuel.Hernandez.Est@gmail.com  
 📱 (442) 753-9090  
-🔗 [LinkedIn](tu-link-linkedin)
+🔗 [LinkedIn](https://www.linkedin.com/in/samuel-hernandez-4b5517204)
 
 ### 🌐 Idiomas
 🇪🇸 Español (Nativo) | 🇺🇸 Inglés (Fluido profesional)

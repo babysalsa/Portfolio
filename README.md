@@ -79,4 +79,4 @@ Ciudad de México, México
 🔗 [LinkedIn](https://www.linkedin.com/in/samuel-hernandez-4b5517204)
 
 ### 🌐 Idiomas
-🇪🇸 Español (Nativo) | 🇺🇸 Inglés (Fluido profesional)
+ve Español (Nativo) | 🇺🇸 Inglés (Fluido profesional)
